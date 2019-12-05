@@ -1,4 +1,4 @@
-package redis;
+package redis.lock;
 
 public class ThreadA extends Thread {
     private RedisService service;
